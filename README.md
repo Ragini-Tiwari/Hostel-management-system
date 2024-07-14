@@ -1,5 +1,4 @@
-Hostel Management System
-Introduction
+
 The Hostel Management System is a Python-based application designed to manage the operations of a hostel. It provides functionalities to manage student information, room allocation, fee collection, and other hostel-related activities. The system uses Tynker for the graphical user interface (GUI) and an SQLite database to store and manage data.
 
 Features
